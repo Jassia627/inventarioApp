@@ -2,6 +2,17 @@
 
 ¡Bienvenido a nuestro proyecto de gestión de inventarios y ventas! 🚀 Este sistema está diseñado para optimizar la administración de productos, ventas y configuraciones, ideal para pequeñas y medianas empresas. 🏢
 
+## 📸 Capturas de Pantalla
+*(Haz clic en las imágenes para verlas en tamaño completo)*
+
+| Panel Principal | Gestión de Inventario |
+|----------------|----------------------|
+| [![Panel Principal](assets/images/screenshots/Panel%20principal.png)](assets/images/screenshots/Panel%20principal.png) | [![Gestión de Inventario](assets/images/screenshots/Gestion%20de%20inventario.png)](assets/images/screenshots/Gestion%20de%20inventario.png) |
+
+| Gestión de Ventas | Historial de Ventas |
+|-------------------|---------------------|
+| [![Gestión de Ventas](assets/images/screenshots/Gestion%20de%20ventas.png)](assets/images/screenshots/Gestion%20de%20ventas.png) | [![Historial de Ventas](assets/images/screenshots/Historial%20de%20ventas.png)](assets/images/screenshots/Historial%20de%20ventas.png) |
+
 ## 🌟 Características
 
 - **📦 Gestión de Inventarios:**
@@ -64,7 +75,7 @@
 - **Correo:** juanassia627@gmail.com
 - **Creador:** Juan Assia → [GitHub](https://github.com/Jassia627)
 
-## 🧑🏻‍💻 creador
+## 🧑🏻‍💻 Creadores
 
 <table>
   <tr>
@@ -75,9 +86,16 @@
         <sub><b>Juan Assia</b></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/Josechaparro09">
+        <img src="https://github.com/Josechaparro09.png" width="100px;" alt="Jose Chaparro"/>
+        <br />
+        <sub><b>Jose Chaparro</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
 
 ---
 
-✨ *Desarrollado con ❤️ por [Juan Assia](https://github.com/Jassia627).*
+✨ *Desarrollado con ❤️ por [Juan Assia](https://github.com/Jassia627). y [Jose Chaparro](https://github.com/Josechaparro09)*
